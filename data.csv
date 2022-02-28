@@ -1,0 +1,51 @@
+id,brand,name,productType,benefits,skinTypes,filename
+1,Round Lab,1025 Dokdo Cleanser,Cleanser,"soothing, low pH, sensitive skin friendly","normal, combo, oily, dry",roundlabdokdocleanser
+2,Innisfree,Blueberry Rebalancing 5.5 Cleanser,Cleanser,low pH,"normal, combo, oily, dry",innisfreeblueberrycleanser
+3,Some By Mi,Bye Bye Blackhead 30 Days Miracle Green Tea Tox Bubble Cleanser,Cleanser,pore care,"normal, combo, oily, dry",somebymibyebyecleanser
+4,Blithe,Bubbling Splash Mask Indian Glacial Mud,Cleanser,"pore care, sensitive skin friendly","normal, combo, oily, dry",blithebubblingcleanser
+5,Innisfree,Volcanic Pore Cleansing Foam,Cleanser,pore care,"normal, combo, oily, dry",innisfreevolcaniccleanser
+6,Isntree,Sensitive Balancing Cleansing Foam,Cleanser,"pore care, sensitive skin friendly","normal, combo, oily, dry",isntreebalancingcleanser
+7,iUNIK,Centella Bubble Cleansing Foam,Cleanser,"soothing, low pH, pore care","normal, combo, oily, dry",iunikbubblecleanser
+8,Some By Mi,AHA BHA PHA 30 Days Miracle Acne Clear Foam,Cleanser,"acne care, pore care","normal, combo, oily, dry",somebymiacnecleanser
+9,P.Calm,Under Pore Foam Cleanser,Cleanser,"acne care, sensitive skin friendly, pore care","normal, combo, oily, dry",pcalmunderporecleanser
+10,NEEDLY,Mild Cleansing Gel,Cleanser,"acne care, sensitive skin friendly","normal, combo, oily, dry",needlymildcleanser
+11,Some By Mi,Propolis B5 Glow Barrier Calming Toner,Toner,"calming, acne care, anti-inflmmatory, skin barrier care, moisturizing","normal, combo, oily, dry",somebymipropolistoner
+12,Abib,Heartleaf Calming Toner Skin Booster,Toner,"soothing, calming, dull skin care","normal, combo, oily, dry",abibheartleaftoner
+13,HARUHARU,WONDER Black Rice Hyaluronic Toner,Toner,"anti-inflammatory, brightening, hydrating","normal, combo, oily, dry",haruharublackricetoner
+14,Beauty of Joseon,Ginseng Essence Water,Toner,"hydrating, smoothing, sensitive skin friendly","normal, combo, oily, dry",bojginsengtoner
+15,Pyunkang Yul ,Essence Toner,Toner,hydrating,"normal, combo, dry",PYToner
+16,Some By Mi,Snail Truecica Miracle Repair Toner,Toner,"soothing, acne care, brightening, anti-aging","normal, combo, oily, dry",somebymisnailtoner
+17,Round Lab,1025 Dokdo Toner,Toner,"exfoliating, skin barrier care, hydrating","normal, combo, oily, dry",roundlabdokdotoner
+18,P.Calm,Barrier_cycle Toner,Toner,"acne care, senstiive skin friendly, brightening","normal, combo, oily, dry",pcalmtoner
+19,SNP,Prep Clayronic Pore Toner,Toner,"pore care, dull skin care","combo, oily",snpporetoner
+20,Skinfood,Royal Honey Propolis Enrich Toner,Toner,"hydrating, anti-inflammatory, anti-oxidants, anti-aging","normal, dry",skinfoodroyaltoner
+21,iUNIK,Propolis Vitamin Synergy Serum,Serum,"calming, anti-inflammatory, brightening, hydrating, pore care, sensitive skin friendly","normal, combo, oily, dry",iunikpropolisserum
+22,Tiam,Vita B3 Source,Serum,"brightening, anti-aging","normal, combo, oily, dry",tiamb3source
+23,Blithe,Pressed Serum Tundra Chaga,Serum,"anti-aging, hydrating","normal, combo, oily, dry",blithepressedserum
+24,Pyunkang Yul ,Moisture Serum,Serum,"soothing, hydrating, sensitive-skin friendly","normal, combo, oily, dry",PYmoistureserum
+25,Some By Mi,Snail Truecica Miracle Repair Serum,Serum,"skin barrier care, soothing, sensitive skin friendly, acne care","normal, combo, oily, dry",somebymitruecicaserum
+26,Some By Mi,Yuja Niacin Blemish Care Serum,Serum,"dull skin, brightening","normal, combo, oily, dry",somebymiyujaserum
+27,SNP,Prep Cicaronic Toning Essence,Serum,"soothing, calming, hydrating","normal, combo, dry",snpessence
+28,Abib,Heartleaf Essence Calming Pump,Serum,"soothing, exfoliation, brightening, hydrating, sensitive skin friendly","normal, combo, oily, dry",abibheartleafessence
+29,One Thing,Tangerine Serum,Serum,brightening,"normal, combo, oily, dry",onethingtangerineserum
+30,Skinfood,Royal Honey Propolis Enrich Essence,Serum,"soothing, hydrating, anti-inflammatory, anti-oxidants, skin barrier care","normal, combo, dry",skinfoodhoneyessence
+31,Mary&May,Sensitive Soothing Gel Cream,Cream,"soothing, calming, sensitive skin friendly","normal, oily",marymaygelcream
+32,Isntree,Onion New pair Gel Cream,Cream,"soothing, brightening, anti-aging, hydrating","normal, combo, oily, dry",isntreeoniongelcream
+33,Skinfood,Royal Honey Propolis Enrich Barrier Cream,Cream,"soothing, hydrating, moisturizing, skin barrier care","normal, dry",skinfoodroyalcream
+34,Etude House,SoonJung Hydro Barrier Cream,Cream,"soothing, skin barrier care, sensitive skin friendly","normal, combo, oily",etudesooncream
+35,Cosrx,ADVANCED SNAIL 92 ALL IN ONE CREAM,Cream,"soothing, hydrating, anti-aging","normal, combo, oily, dry",cosrxsnail92cream
+36,Cosrx,Centella Blemish Cream,Cream,"soothing, sensitive skin friendly","normal, combo, oily, dry",cosrxcentellacream
+37,Some By Mi,AHA BHA PHA 14 Days Super Miracle Spot All Kill Cream,Cream,"soothing, acne care, skin barrier care","normal, combo, oily, dry",somebymikillcream
+38,Innisfree,Jeju Cherry Blossom Jelly Cream,Cream,"hydratring, brightening","normal, combo, oily",innisfreecherryjellycream
+39,Real Barrier,Intense Moisture Cream,Cream,"soothing, hydrating, barrier care, sensitive skin friendly","normal, dry",realbarrierextremecream
+40,Round Lab,1025 Dokdo Cream,Cream,"hydrating, skin barrier care, sensitive skin friendly","normal, combo, oily, dry",roundlabdokdocream
+41,Etude House,Sunprise Mild Watery Light SPF50+ PA++++,SPF,"soothing, hydrating, physical","normal, combo, oily, dry",etudesunprisespf
+42,B_LAB,Matcha Hydrating Real Sun Screen SPF50+PA++++,SPF,"soothing, hydrating, chemical","normal, combo, oily, dry",blabmatchaspf
+43,Skinfood,Aloe Watery Sun Waterproof SPF50+ PA+++,SPF,"soothing, acne care, chemical","normal, oily",skinfoodaloespf
+44,Skinfood,All Day Berry More Safe Sun,SPF,"soothing, chemical","normal, combo, oily, dry",skinfoodmoresunspf
+45,Skin1004,Madagascar Centella Air-Fit Suncream,SPF,"brightening, physical","normal, combo, oily, dry",skin1004suncream
+46,Purito,Daily Go-To Sunscreen,SPF,"sensitive skin friendly, chemical, physical","normal, combo, oily, dry",puritodailyspf
+47,Abib,Mild Sunblock Protection Tube,SPF,"hydrating, chemical, physical","normal, oily",abibmildsunblock
+48,Dr. Jart +,Every Sun Day Waterproof Sun Milk,SPF,"hydrating, sensitive skin friendly, chemical","normal, combo, oily, dry",drjartwaterproofsunmilk
+49,Holika Holika,Aloe Waterproof Sun Cream,SPF,"soothing, hydrating, physical, chemical","normal, combo, oily, dry",holikaaloesuncream
+50,MISSHA,All-around Safe Block Essence Sun SPF45 PA+++,SPF,"hydrating, sensitive skin friendly, chemical","normal, dry",misshasafeessencesun
