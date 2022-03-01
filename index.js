@@ -3,7 +3,7 @@ let parse = require("csv-parse").parse;
 const express = require("express");
 const app = express();
 
-app.set("port", 3001);
+app.set("port", process.env.PORT || 3001);
 app.locals.title = "Reenee's Skincare";
 
 const records = [];
