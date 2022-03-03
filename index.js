@@ -1,7 +1,10 @@
 let fs = require("fs");
 let parse = require("csv-parse").parse;
 const express = require("express");
+var cors = require("cors");
 const app = express();
+
+app.use(cors());
 
 app.set("port", process.env.PORT || 3001);
 app.locals.title = "Reenee's Skincare";
