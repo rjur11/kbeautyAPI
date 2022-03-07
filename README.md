@@ -20,6 +20,12 @@ Clone this down, and `cd` into it.  Then run:
 
 Alternatively, check out the deployed API on [Heroku](https://kbeauty-api.herokuapp.com/api/v1/skincare)
 
+## Technologies Used:
+
+- Express
+- Node.js
+- Heroku deployment
+
 ## Endpoints
 | Description | URL | Method | Required Properties for Request | Sample Successful Response |
 |----------|-----|--------|---------------------|-----------------|
